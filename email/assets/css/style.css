@@ -1,0 +1,44 @@
+body {
+    background: rgb(37, 37, 37);
+}
+#header {
+    background-color: rgba(0, 0, 0, 0.479);
+    height: 150px;
+}
+#choco {
+    background-color: white;
+}
+#t0 {
+    background-color: white;
+}
+#t1 {
+    padding: 30px 30px 10px 30px;
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+}
+#t2 {
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.4;
+    padding-bottom: 20px;
+}
+#c0 {
+    background-color: white;
+    padding: 40px;
+}
+button {
+    font-family: Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 8px;
+    border-style: none;
+}
+#c1 {
+    background-color: rgb(238, 237, 238);
+}
